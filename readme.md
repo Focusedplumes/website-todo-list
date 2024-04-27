@@ -13,4 +13,5 @@
 ## npm run to show all the list of scripts i may have set up. 
 ## this is an async calls application
 ## Best Practice to use single quotes for values!! In JSON files too.
-## add to scripts on package.json "start": "npm browser-sync start --server"
+## add to scripts on package.json "start": "npm browser-sync start --server" and it will open the web page
+## use cntrl c to get out of the browser-sync screen
