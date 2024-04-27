@@ -3,6 +3,7 @@
 
 
 ## STEPS FOR OUT BASIC APPLICATION SETUP -- Web Todo List
+## when setting up repo make sure to hit ignore in the options
 ## install npm install browser-sync
 ## better to run a module than write code ourselves. so is std to see bunch of dependencies
 

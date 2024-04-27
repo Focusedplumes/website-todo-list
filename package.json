@@ -2,7 +2,7 @@
   "name": "website-todo-list",
   "version": "1.0.0",
   "description": "website version of todo list",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo 'we really need to add testing to this!!'"
   },
