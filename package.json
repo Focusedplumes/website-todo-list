@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Focusedplumes/website-todo-list/issues"
   },
-  "homepage": "https://github.com/Focusedplumes/website-todo-list#readme"
+  "homepage": "https://github.com/Focusedplumes/website-todo-list#readme",
+  "dependencies": {
+    "browser-sync": "^3.0.2"
+  }
 }
