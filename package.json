@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo 'we really need to add testing to this!!'",
-    "start": "browser-sync start"
+    "start": "browser-sync start --server"
   },
   "repository": {
     "type": "git",
